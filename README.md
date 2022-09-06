@@ -1,5 +1,5 @@
 # AccountSystem
-هذا المستودع تحت الاختبار وتجميع لطلبات العملاء.
+هذا المستودع لتجميع لطلبات العملاء وبرمجتها.
 Hafiz(Pharmacy AccountSystem)
 Nazim(Clothes AccountSystem)
 Shrook(Hr System)
