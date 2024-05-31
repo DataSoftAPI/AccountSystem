@@ -1,6 +1,6 @@
 // C++ Code:
 #include <datasoftai.h>
-long KeyID
+long KeyID;
 
 int main(){
 
